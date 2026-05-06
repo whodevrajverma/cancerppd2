@@ -11,7 +11,6 @@ Chauhan, M., Gupta, A., Tomer, R., & Raghava, G. P. S. (2025).
 CancerPPD2: an updated repository of anticancer peptides and proteins.
 Database. https://doi.org/10.1093/database/baaf030
 
-⸻
 
 ## About the Database
 
@@ -22,8 +21,7 @@ The database integrates information from:
 * Literature (PubMed, Google Scholar, Patent Lens)
 * Public repositories (UniProt, PDB, PubChem, ChEMBL)
 
-⸻
-
+  
 ## Key Features
 
 Massive Dataset 
@@ -56,8 +54,6 @@ Structural Data
 * Experimental + predicted structures
 * SMILES representations for molecular analysis
 
-⸻
-
 ## Overview
 
 CancerPPD2 provides experimentally validated data along with:
@@ -69,9 +65,8 @@ CancerPPD2 provides experimentally validated data along with:
 * Clinical relevance
 * Cross-references (UniProt, DrugBank, PDB)
 
-⸻
 
-Structure Prediction
+### Structure Prediction
 
 Structures were obtained or predicted using:
 
@@ -80,9 +75,8 @@ Structures were obtained or predicted using:
 * AlphaFold
 * I-TASSER
 
-⸻
 
-Improvements Over Previous Version
+### Improvements Over Previous Version
 
 * ~85% increase in data
 * Inclusion of modified peptides
@@ -90,16 +84,14 @@ Improvements Over Previous Version
 * Enhanced structure prediction coverage
 * Clinical trial linkage
 
-⸻
 
-Limitations
+### Limitations
 
 * Structural prediction challenges for:
     * Complex chemical modifications
     * Peptides lacking sequence data
 * Force-field limitations in prediction tools
 
-⸻
 
 ## Applications
 
@@ -108,7 +100,6 @@ Limitations
 * Structure-function analysis
 * Translational oncology research
 
-⸻
 
 ## Contact & Authors
 
@@ -118,14 +109,11 @@ http://webs.iiitd.edu.in/raghava/
 
 Developed at Indraprastha Institute of Information Technology (IIIT Delhi), India
 
-⸻
-
 ## License
 
 This database is distributed under the
 Creative Commons Attribution License (CC BY 4.0)
 
-⸻
 
 ## Acknowledgements
 
