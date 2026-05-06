@@ -5,9 +5,7 @@ Welcome to the official repository for CancerPPD2, a comprehensive and manually 
 Web Server: http://webs.iiitd.edu.in/raghava/cancerppd2/
 API Access: https://webs.iiitd.edu.in/raghava/cancerppd2/api/rest.html
 
-Citation
-
-If you use CancerPPD2 in your research, please cite:
+## Citation
 
 Chauhan, M., Gupta, A., Tomer, R., & Raghava, G. P. S. (2025).
 CancerPPD2: an updated repository of anticancer peptides and proteins.
@@ -15,7 +13,7 @@ Database. https://doi.org/10.1093/database/baaf030
 
 ⸻
 
-About the Database
+## About the Database
 
 CancerPPD2 is an updated version of the original CancerPPD database, significantly expanding the scope and depth of anticancer peptide data. It consolidates scattered experimental findings into a centralized platform, enabling systematic exploration of peptide sequences, structures, modifications, and biological activities.
 
@@ -26,7 +24,7 @@ The database integrates information from:
 
 ⸻
 
-Key Features
+## Key Features
 
 Massive Dataset 
 
@@ -60,7 +58,7 @@ Structural Data
 
 ⸻
 
-Overview
+## Overview
 
 CancerPPD2 provides experimentally validated data along with:
 
@@ -103,7 +101,7 @@ Limitations
 
 ⸻
 
-Applications
+## Applications
 
 * Anticancer peptide design
 * Machine learning model training
@@ -112,7 +110,7 @@ Applications
 
 ⸻
 
-Contact & Authors
+## Contact & Authors
 
 Prof. Gajendra P. S. Raghava
 raghava@iiitd.ac.in
@@ -122,14 +120,14 @@ Developed at Indraprastha Institute of Information Technology (IIIT Delhi), Indi
 
 ⸻
 
-License
+## License
 
 This database is distributed under the
 Creative Commons Attribution License (CC BY 4.0)
 
 ⸻
 
-Acknowledgements
+## Acknowledgements
 
 Supported by:
 
