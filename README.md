@@ -1,6 +1,6 @@
-###CancerPPD2: Anticancer Peptides & Proteins Database
+# CancerPPD2: Anticancer Peptides & Proteins Database
 
-Welcome to the official repository for CancerPPD2, a comprehensive and manually curated database of experimentally validated anticancer peptides (ACPs) and proteins. This resource is designed to support researchers in peptide therapeutics, cancer biology, and computational drug discovery. 👩‍🔬👨‍🔬
+Welcome to the official repository for CancerPPD2, a comprehensive and manually curated database of experimentally validated anticancer peptides (ACPs) and proteins. This resource is designed to support researchers in peptide therapeutics, cancer biology, and computational drug discovery.
 
 Web Server: http://webs.iiitd.edu.in/raghava/cancerppd2/
 API Access: https://webs.iiitd.edu.in/raghava/cancerppd2/api/rest.html
