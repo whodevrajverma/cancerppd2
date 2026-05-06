@@ -1,13 +1,21 @@
-🧬 CancerPPD2: Anticancer Peptides & Proteins Database
+#CancerPPD2: Anticancer Peptides & Proteins Database
 
 Welcome to the official repository for CancerPPD2, a comprehensive and manually curated database of experimentally validated anticancer peptides (ACPs) and proteins. This resource is designed to support researchers in peptide therapeutics, cancer biology, and computational drug discovery. 👩‍🔬👨‍🔬
 
-🌐 Web Server: http://webs.iiitd.edu.in/raghava/cancerppd2/
-🔌 API Access: https://webs.iiitd.edu.in/raghava/cancerppd2/api/rest.html
+Web Server: http://webs.iiitd.edu.in/raghava/cancerppd2/
+API Access: https://webs.iiitd.edu.in/raghava/cancerppd2/api/rest.html
+
+Citation
+
+If you use CancerPPD2 in your research, please cite:
+
+Chauhan, M., Gupta, A., Tomer, R., & Raghava, G. P. S. (2025).
+CancerPPD2: an updated repository of anticancer peptides and proteins.
+Database. https://doi.org/10.1093/database/baaf030
 
 ⸻
 
-🔬 About the Database
+About the Database
 
 CancerPPD2 is an updated version of the original CancerPPD database, significantly expanding the scope and depth of anticancer peptide data. It consolidates scattered experimental findings into a centralized platform, enabling systematic exploration of peptide sequences, structures, modifications, and biological activities.
 
@@ -18,21 +26,21 @@ The database integrates information from:
 
 ⸻
 
-✨ Key Features
+Key Features
 
-Massive Dataset 📈
+Massive Dataset 
 
 * 6521 total entries
 * 5919 anticancer peptides
 * 541 anticancer proteins
 
-Extensive Coverage 🧪
+Extensive Coverage 
 
 * 392 cancer cell lines
 * 28 tissue types
 * 47 clinical trial-linked entries
 
-Rich Annotations 📝
+Rich Annotations 
 Each entry includes:
 
 * Sequence, length, chirality
@@ -40,19 +48,19 @@ Each entry includes:
 * Cancer type and cell line
 * Assay details and activity (e.g., IC50)
 
-Modified Peptides Focus 🧬
+Modified Peptides Focus 
 
 * 781 chemically modified peptides
 * 3018 N-/C-terminal modified entries
 
-Structural Data 🧠
+Structural Data 
 
 * Experimental + predicted structures
 * SMILES representations for molecular analysis
 
 ⸻
 
-🔍 Overview
+Overview
 
 CancerPPD2 provides experimentally validated data along with:
 
@@ -65,7 +73,7 @@ CancerPPD2 provides experimentally validated data along with:
 
 ⸻
 
-🧠 Structure Prediction
+Structure Prediction
 
 Structures were obtained or predicted using:
 
@@ -76,7 +84,7 @@ Structures were obtained or predicted using:
 
 ⸻
 
-📈 Improvements Over Previous Version
+Improvements Over Previous Version
 
 * ~85% increase in data
 * Inclusion of modified peptides
@@ -86,7 +94,7 @@ Structures were obtained or predicted using:
 
 ⸻
 
-⚠️ Limitations
+Limitations
 
 * Structural prediction challenges for:
     * Complex chemical modifications
@@ -95,7 +103,7 @@ Structures were obtained or predicted using:
 
 ⸻
 
-🎯 Applications
+Applications
 
 * Anticancer peptide design
 * Machine learning model training
@@ -104,33 +112,24 @@ Structures were obtained or predicted using:
 
 ⸻
 
-🧠 Citation
-
-If you use CancerPPD2 in your research, please cite:
-
-Chauhan, M., Gupta, A., Tomer, R., & Raghava, G. P. S. (2025).
-CancerPPD2: an updated repository of anticancer peptides and proteins.
-Database. https://doi.org/10.1093/database/baaf030
-
-
-📧 Contact & Authors
+Contact & Authors
 
 Prof. Gajendra P. S. Raghava
-📧 raghava@iiitd.ac.in
-🌐 http://webs.iiitd.edu.in/raghava/
+raghava@iiitd.ac.in
+http://webs.iiitd.edu.in/raghava/
 
 Developed at Indraprastha Institute of Information Technology (IIIT Delhi), India
 
 ⸻
 
-📄 License
+License
 
 This database is distributed under the
 Creative Commons Attribution License (CC BY 4.0)
 
 ⸻
 
-🙏 Acknowledgements
+Acknowledgements
 
 Supported by:
 
@@ -138,4 +137,4 @@ Supported by:
 * DST-INSPIRE
 * DBT
 
-We acknowledge all researchers whose work contributed to this dataset. 🎉
+We acknowledge all researchers whose work contributed to this dataset.
