@@ -11,6 +11,8 @@ Chauhan, M., Gupta, A., Tomer, R., & Raghava, G. P. S. (2025).
 CancerPPD2: an updated repository of anticancer peptides and proteins.
 Database. https://doi.org/10.1093/database/baaf030
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20051783
+
 
 ## About the Database
 
